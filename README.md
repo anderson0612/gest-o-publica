@@ -1,6 +1,3 @@
-# Gest-o-Publica
-Projeto de banco de dados para gestão pública no SQL Server
-
 # Gestão Pública - Banco de Dados SQL Server
 
 Este repositório contém um projeto de banco de dados para gestão pública utilizando SQL Server.
