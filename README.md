@@ -20,7 +20,6 @@ Este repositório contém um projeto de banco de dados para gestão pública uti
 🛠️ Tecnologias usadas:
 - Sql Server
 - Sql Server Managemnet Studio
-- 
 ## 🚀 Como Usar
 
 1. Clone o repositório:
