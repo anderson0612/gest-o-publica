@@ -17,6 +17,10 @@ Este repositório contém um projeto de banco de dados para gestão pública uti
 - `ServidoresPublicos` - Lista os servidores vinculados aos órgãos.
 - `Atendimentos` - Relaciona cidadãos e servidores nos atendimentos.
 
+🛠️ Tecnologias usadas:
+- Sql Server
+- Sql Server Managemnet Studio
+- 
 ## 🚀 Como Usar
 
 1. Clone o repositório:
